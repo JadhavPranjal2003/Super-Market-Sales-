@@ -1,0 +1,1001 @@
+Transation_ID,Date,Customer ID,Gender,City,Product Category,Age,Payment,Quantity,Price per Unit,Total Amount
+1,24-11-2023,CUST001,Male,Pune,Beauty,53,Ewallet,3,50,150
+2,27-02-2023,CUST002,Female,Pune,Clothing,34,Cash,2,500,1000
+3,13-01-2023,CUST003,Male,Kolkata,Electronics,26,Credit card,1,30,30
+4,21-05-2023,CUST004,Male,Pune,Clothing,50,Ewallet,1,500,500
+5,06-05-2023,CUST005,Male,Pune,Beauty,37,Ewallet,2,50,100
+6,25-04-2023,CUST006,Female,Mumbai,Beauty,30,Ewallet,1,30,30
+7,13-03-2023,CUST007,Male,Pune,Clothing,45,Ewallet,2,25,50
+8,22-02-2023,CUST008,Male,Mumbai,Stationery,46,Ewallet,4,25,100
+9,13-12-2023,CUST009,Male,Pune,Electronics,30,Credit card,2,300,600
+10,07-10-2023,CUST010,Female,Bangalor,Clothing,63,Credit card,4,50,200
+11,14-02-2023,CUST011,Male,Bangalor,Clothing,52,Ewallet,2,50,100
+12,30-10-2023,CUST012,Male,Bangalor,Beauty,23,Cash,3,25,75
+13,05-08-2023,CUST013,Male,Pune,Stationery,35,Ewallet,3,500,1500
+14,17-01-2023,CUST014,Male,Kolkata,Clothing,22,Ewallet,4,30,120
+15,16-01-2023,CUST015,Female,Pune,Electronics,64,Cash,4,500,2000
+16,17-02-2023,CUST016,Male,Bangalor,Clothing,42,Cash,3,500,1500
+17,22-04-2023,CUST017,Female,Pune,Clothing,19,Credit card,4,25,100
+18,30-04-2023,CUST018,Female,Kolkata,Electronics,27,Credit card,2,25,50
+19,16-09-2023,CUST019,Female,Pune,Stationery,47,Credit card,2,25,50
+20,05-11-2023,CUST020,Male,Mumbai,Clothing,62,Ewallet,3,300,900
+21,14-01-2023,CUST021,Female,Mumbai,Beauty,22,Ewallet,1,500,500
+22,15-10-2023,CUST022,Male,Mumbai,Clothing,50,Ewallet,2,50,100
+23,12-04-2023,CUST023,Female,Mumbai,Clothing,18,Credit card,4,30,120
+24,29-11-2023,CUST024,Female,Pune,Clothing,35,Ewallet,1,300,300
+25,26-12-2023,CUST025,Female,Pune,Stationery,49,Ewallet,1,50,50
+26,07-10-2023,CUST026,Female,Kolkata,Electronics,64,Credit card,2,500,1000
+27,03-08-2023,CUST027,Female,Mumbai,Beauty,28,Cash,2,25,50
+28,23-04-2023,CUST028,Female,Pune,Beauty,38,Credit card,1,500,500
+29,18-08-2023,CUST029,Female,Mumbai,Electronics,43,Cash,1,30,30
+30,29-10-2023,CUST030,Female,Pune,Beauty,42,Cash,3,300,900
+31,23-05-2023,CUST031,Male,Mumbai,Electronics,39,Credit card,4,300,1200
+32,04-01-2023,CUST032,Male,Mumbai,Beauty,44,Cash,3,30,90
+33,23-03-2023,CUST033,Female,Mumbai,Stationery,30,Cash,2,50,100
+34,24-12-2023,CUST034,Female,Pune,Clothing,50,Credit card,3,50,150
+35,05-08-2023,CUST035,Female,Nashik,Beauty,51,Ewallet,3,300,900
+36,24-06-2023,CUST036,Male,Nashik,Beauty,58,Ewallet,3,300,900
+37,23-05-2023,CUST037,Female,Pune,Beauty,52,Ewallet,3,25,75
+38,21-03-2023,CUST038,Male,Pune,Beauty,18,Ewallet,4,50,200
+39,21-04-2023,CUST039,Male,Nashik,Clothing,38,Ewallet,4,30,120
+40,22-06-2023,CUST040,Male,Mumbai,Beauty,23,Cash,1,50,50
+41,22-02-2023,CUST041,Male,Kolkata,Stationery,45,Ewallet,2,25,50
+42,17-02-2023,CUST042,Male,Nashik,Clothing,34,Cash,3,300,900
+43,14-07-2023,CUST043,Female,Mumbai,Stationery,22,Cash,1,300,300
+44,19-02-2023,CUST044,Female,Nashik,Clothing,48,Cash,1,25,25
+45,03-07-2023,CUST045,Female,Nashik,Electronics,22,Cash,1,30,30
+46,26-06-2023,CUST046,Female,Mumbai,Electronics,55,Cash,4,300,1200
+47,06-11-2023,CUST047,Female,Kolkata,Beauty,20,Credit card,3,500,1500
+48,16-05-2023,CUST048,Male,Mumbai,Electronics,40,Ewallet,3,300,900
+49,23-01-2023,CUST049,Female,Mumbai,Stationery,54,Credit card,2,500,1000
+50,24-08-2023,CUST050,Female,Nashik,Beauty,54,Ewallet,3,25,75
+51,02-10-2023,CUST051,Male,Nashik,Beauty,27,Cash,3,25,75
+52,05-03-2023,CUST052,Female,Pune,Beauty,27,Cash,1,300,300
+53,13-07-2023,CUST053,Male,Mumbai,Electronics,36,Ewallet,2,50,100
+54,10-02-2023,CUST054,Female,Mumbai,Electronics,34,Credit card,3,500,1500
+55,10-10-2023,CUST055,Male,Kolkata,Beauty,38,Ewallet,4,30,120
+56,31-05-2023,CUST056,Female,Nashik,Clothing,31,Cash,3,300,900
+57,18-11-2023,CUST057,Female,Pune,Beauty,26,Cash,1,30,30
+58,13-11-2023,CUST058,Male,Kolkata,Stationery,63,Ewallet,4,300,1200
+59,05-07-2023,CUST059,Male,Pune,Clothing,18,Cash,1,50,50
+60,23-10-2023,CUST060,Male,Nashik,Beauty,62,Cash,3,50,150
+61,09-04-2023,CUST061,Male,Kolkata,Beauty,30,Credit card,4,50,200
+62,27-12-2023,CUST062,Male,Nashik,Beauty,21,Ewallet,2,50,100
+63,05-02-2023,CUST063,Male,Mumbai,Electronics,18,Ewallet,2,25,50
+64,24-01-2023,CUST064,Male,Pune,Clothing,57,Credit card,4,25,100
+65,05-12-2023,CUST065,Male,Mumbai,Electronics,49,Cash,4,500,2000
+66,27-04-2023,CUST066,Female,Pune,Electronics,51,Cash,1,30,30
+67,29-05-2023,CUST067,Female,Nashik,Beauty,45,Ewallet,4,300,1200
+68,10-02-2023,CUST068,Male,Mumbai,Electronics,48,Ewallet,1,300,300
+69,30-04-2023,CUST069,Female,Pune,Beauty,25,Cash,3,25,75
+70,21-02-2023,CUST070,Female,Pune,Clothing,56,Cash,1,300,300
+71,14-07-2023,CUST071,Female,Nashik,Beauty,43,Credit card,4,25,100
+72,23-05-2023,CUST072,Female,Nashik,Electronics,51,Cash,4,500,2000
+73,21-08-2023,CUST073,Male,Mumbai,Electronics,20,Ewallet,3,30,90
+74,22-11-2023,CUST074,Female,Nashik,Beauty,29,Cash,4,500,2000
+75,06-07-2023,CUST075,Male,Pune,Stationery,18,Ewallet,4,50,200
+76,25-03-2023,CUST076,Female,Nashik,Electronics,61,Credit card,2,50,100
+77,09-07-2023,CUST077,Female,Nashik,Clothing,22,Credit card,2,50,100
+78,01-07-2023,CUST078,Female,Pune,Clothing,47,Credit card,3,500,1500
+79,18-04-2023,CUST079,Male,Nashik,Beauty,47,Ewallet,1,300,300
+80,10-12-2023,CUST080,Female,Nashik,Clothing,34,Cash,2,30,60
+81,17-05-2023,CUST081,Male,Nashik,Electronics,64,Credit card,1,50,50
+82,26-12-2023,CUST082,Female,Mumbai,Beauty,40,Ewallet,4,50,200
+83,16-12-2023,CUST083,Male,Nashik,Electronics,32,Ewallet,2,50,100
+84,28-11-2023,CUST084,Female,Nashik,Electronics,54,Credit card,3,30,90
+85,06-02-2023,CUST085,Male,Kolkata,Clothing,38,Cash,3,50,150
+86,08-11-2023,CUST086,Male,Nashik,Beauty,31,Ewallet,3,30,90
+87,22-11-2023,CUST087,Female,Nashik,Beauty,19,Cash,2,50,100
+88,29-03-2023,CUST088,Male,Pune,Clothing,28,Credit card,1,500,500
+89,01-10-2023,CUST089,Female,Pune,Electronics,56,Cash,4,500,2000
+90,06-05-2023,CUST090,Female,Mumbai,Electronics,55,Cash,1,30,30
+91,25-03-2023,CUST091,Female,Nashik,Stationery,51,Cash,1,500,500
+92,25-08-2023,CUST092,Female,Nashik,Electronics,55,Ewallet,4,30,120
+93,14-07-2023,CUST093,Female,Pune,Beauty,51,Ewallet,4,500,2000
+94,19-05-2023,CUST094,Female,Mumbai,Beauty,35,Credit card,2,500,1000
+95,24-11-2023,CUST095,Female,Nashik,Clothing,47,Credit card,2,30,60
+96,19-12-2023,CUST096,Female,Pune,Clothing,32,Ewallet,2,300,600
+97,13-10-2023,CUST097,Female,Mumbai,Beauty,44,Ewallet,2,500,1000
+98,23-04-2023,CUST098,Female,Nashik,Beauty,51,Cash,2,50,100
+99,17-12-2023,CUST099,Female,Pune,Electronics,55,Ewallet,4,300,1200
+100,16-06-2023,CUST100,Male,Pune,Electronics,50,Ewallet,1,30,30
+101,29-01-2023,CUST101,Male,Mumbai,Clothing,41,Cash,2,300,600
+102,28-04-2023,CUST102,Female,Nashik,Beauty,32,Credit card,2,25,50
+103,17-01-2023,CUST103,Female,Nashik,Stationery,47,Ewallet,1,25,25
+104,11-06-2023,CUST104,Female,Pune,Beauty,59,Ewallet,2,500,1000
+105,25-07-2023,CUST105,Female,Mumbai,Electronics,34,Ewallet,1,500,500
+106,18-05-2023,CUST106,Female,Nashik,Clothing,22,Ewallet,1,50,50
+107,03-02-2023,CUST107,Female,Pune,Clothing,46,Ewallet,4,300,1200
+108,19-04-2023,CUST108,Female,Mumbai,Beauty,21,Credit card,3,25,75
+109,18-10-2023,CUST109,Female,Nashik,Electronics,27,Credit card,4,500,2000
+110,11-06-2023,CUST110,Male,Pune,Clothing,34,Ewallet,3,300,900
+111,19-04-2023,CUST111,Female,Pune,Electronics,27,Cash,3,500,1500
+112,02-12-2023,CUST112,Male,Mumbai,Clothing,34,Ewallet,3,500,1500
+113,13-09-2023,CUST113,Female,Nashik,Electronics,37,Ewallet,2,25,50
+114,22-07-2023,CUST114,Female,Nashik,Beauty,41,Cash,4,25,100
+115,26-11-2023,CUST115,Male,Pune,Clothing,22,Cash,3,500,1500
+116,23-08-2023,CUST116,Female,Mumbai,Clothing,51,Credit card,1,30,30
+117,15-03-2023,CUST117,Male,Nashik,Electronics,23,Credit card,2,500,1000
+118,16-05-2023,CUST118,Female,Pune,Electronics,19,Credit card,4,500,2000
+119,13-03-2023,CUST119,Female,Mumbai,Clothing,30,Ewallet,3,50,150
+120,07-05-2023,CUST120,Male,Nashik,Beauty,60,Ewallet,1,50,50
+121,15-10-2023,CUST121,Female,Pune,Electronics,60,Ewallet,4,50,200
+122,03-10-2023,CUST122,Male,Pune,Electronics,28,Credit card,4,30,120
+123,15-05-2023,CUST123,Female,Mumbai,Electronics,64,Ewallet,2,30,60
+124,27-10-2023,CUST124,Male,Nashik,Clothing,40,Ewallet,4,500,2000
+125,08-08-2023,CUST125,Male,Nashik,Stationery,33,Credit card,2,50,100
+126,26-10-2023,CUST126,Female,Pune,Clothing,48,Cash,3,30,90
+127,24-07-2023,CUST127,Female,Mumbai,Clothing,28,Credit card,2,25,50
+128,05-07-2023,CUST128,Male,Nashik,Beauty,33,Cash,1,500,500
+129,23-04-2023,CUST129,Female,Pune,Beauty,25,Cash,2,300,600
+130,12-03-2023,CUST130,Female,Mumbai,Clothing,21,Credit card,1,500,500
+131,18-09-2023,CUST131,Female,Nashik,Beauty,57,Cash,2,300,600
+132,10-09-2023,CUST132,Male,Pune,Electronics,21,Cash,4,50,200
+133,16-02-2023,CUST133,Male,Pune,Electronics,42,Credit card,3,300,900
+134,25-01-2023,CUST134,Male,Mumbai,Stationery,20,Ewallet,1,50,50
+135,26-02-2023,CUST135,Male,Nashik,Clothing,49,Ewallet,2,25,50
+136,20-03-2023,CUST136,Male,Nashik,Electronics,20,Ewallet,2,300,600
+137,18-11-2023,CUST137,Male,Pune,Beauty,44,Ewallet,2,500,1000
+138,23-03-2023,CUST138,Male,Mumbai,Clothing,46,Ewallet,4,50,200
+139,15-12-2023,CUST139,Male,Kolkata,Beauty,49,Cash,4,500,2000
+140,05-08-2023,CUST140,Male,Pune,Electronics,36,Ewallet,1,30,30
+141,02-11-2023,CUST141,Female,Mumbai,Stationery,38,Cash,1,50,50
+142,02-02-2023,CUST142,Male,Nashik,Electronics,22,Cash,4,300,1200
+143,17-07-2023,CUST143,Female,Pune,Clothing,35,Cash,1,50,50
+144,15-07-2023,CUST144,Female,Kolkata,Beauty,45,Cash,3,500,1500
+145,02-11-2023,CUST145,Female,Mumbai,Clothing,59,Cash,3,25,75
+146,28-08-2023,CUST146,Male,Nashik,Clothing,39,Credit card,4,50,200
+147,28-09-2023,CUST147,Male,Nashik,Electronics,38,Ewallet,1,300,300
+148,09-05-2023,CUST148,Male,Pune,Clothing,23,Credit card,2,30,60
+149,11-10-2023,CUST149,Male,Mumbai,Clothing,18,Ewallet,3,25,75
+150,06-01-2023,CUST150,Female,Nashik,Electronics,22,Cash,4,30,120
+151,15-12-2023,CUST151,Male,Pune,Clothing,58,Cash,1,50,50
+152,28-02-2023,CUST152,Male,Mumbai,Electronics,29,Ewallet,4,500,2000
+153,16-12-2023,CUST153,Male,Nashik,Stationery,43,Credit card,2,500,1000
+154,02-10-2023,CUST154,Male,Kolkata,Electronics,63,Ewallet,3,300,900
+155,17-05-2023,CUST155,Male,Pune,Electronics,51,Cash,4,500,2000
+156,25-11-2023,CUST156,Female,Mumbai,Clothing,31,Cash,4,25,100
+157,24-06-2023,CUST157,Male,Nashik,Electronics,43,Ewallet,4,500,2000
+158,27-02-2023,CUST158,Female,Nashik,Electronics,62,Cash,2,300,600
+159,31-05-2023,CUST159,Male,Pune,Clothing,44,Cash,4,50,200
+160,11-08-2023,CUST160,Female,Mumbai,Clothing,26,Credit card,2,50,100
+161,22-03-2023,CUST161,Male,Nashik,Beauty,43,Ewallet,2,500,1000
+162,21-08-2023,CUST162,Male,Pune,Clothing,64,Ewallet,2,30,60
+163,02-01-2023,CUST163,Female,Mumbai,Clothing,39,Credit card,3,50,150
+164,15-05-2023,CUST164,Female,Nashik,Beauty,64,Cash,3,500,1500
+165,14-09-2023,CUST165,Female,Kolkata,Clothing,47,Cash,4,300,1200
+166,02-04-2023,CUST166,Male,Pune,Footwear & Shoes,60,Ewallet,4,500,2000
+167,17-09-2023,CUST167,Female,Mumbai,Clothing,34,Ewallet,3,50,150
+168,24-02-2023,CUST168,Male,Nashik,Clothing,43,Cash,1,300,300
+169,17-11-2023,CUST169,Male,Nashik,Beauty,53,Cash,3,500,1500
+170,02-06-2023,CUST170,Female,Pune,Clothing,18,Credit card,2,25,50
+171,24-11-2023,CUST171,Female,Mumbai,Clothing,25,Cash,3,300,900
+172,17-09-2023,CUST172,Male,Nashik,Beauty,52,Ewallet,2,25,50
+173,08-11-2023,CUST173,Male,Pune,Footwear & Shoes,32,Cash,4,30,120
+174,12-04-2023,CUST174,Female,Mumbai,Beauty,64,Ewallet,1,300,300
+175,20-03-2023,CUST175,Female,Nashik,Electronics,39,Credit card,4,25,100
+176,11-07-2023,CUST176,Female,Pune,Beauty,31,Credit card,2,50,100
+177,24-03-2023,CUST177,Male,Kolkata,Footwear & Shoes,43,Credit card,2,50,100
+178,04-10-2023,CUST178,Male,Mumbai,Clothing,45,Ewallet,2,30,60
+179,29-09-2023,CUST179,Male,Nashik,Electronics,40,Cash,1,300,300
+180,01-01-2023,CUST180,Male,Nashik,Clothing,31,Credit card,3,300,900
+181,03-11-2023,CUST181,Male,Pune,Electronics,41,Ewallet,4,300,1200
+182,15-06-2023,CUST182,Male,Mumbai,Beauty,19,Ewallet,4,30,120
+183,08-09-2023,CUST183,Female,Nashik,Beauty,62,Credit card,3,300,900
+184,10-01-2023,CUST184,Male,Pune,Electronics,43,Cash,4,50,200
+185,27-02-2023,CUST185,Male,Mumbai,Clothing,31,Ewallet,1,25,25
+186,05-07-2023,CUST186,Male,Nashik,Clothing,24,Cash,4,50,200
+187,07-06-2023,CUST187,Female,Pune,Footwear & Shoes,20,Credit card,2,50,100
+188,03-05-2023,CUST188,Male,Pune,Clothing,64,Cash,3,25,75
+189,30-01-2023,CUST189,Male,Mumbai,Beauty,40,Cash,1,50,50
+190,04-05-2023,CUST190,Female,Kolkata,Beauty,63,Cash,3,30,90
+191,18-10-2023,CUST191,Male,Nashik,Beauty,60,Ewallet,1,25,25
+192,10-02-2023,CUST192,Male,Pune,Beauty,64,Ewallet,2,50,100
+193,13-02-2023,CUST193,Male,Mumbai,Beauty,62,Credit card,3,500,1500
+194,06-09-2023,CUST194,Male,Nashik,Clothing,35,Credit card,4,50,200
+195,05-02-2023,CUST195,Male,Pune,Clothing,55,Ewallet,1,30,30
+196,30-09-2023,CUST196,Female,Mumbai,Clothing,52,Ewallet,3,300,900
+197,06-03-2023,CUST197,Female,Nashik,Clothing,32,Cash,4,50,200
+198,07-03-2023,CUST198,Female,Pune,Beauty,42,Ewallet,3,300,900
+199,04-12-2023,CUST199,Male,Pune,Footwear & Shoes,54,Ewallet,3,500,1500
+200,01-09-2023,CUST200,Male,Mumbai,Beauty,45,Cash,3,50,150
+201,09-10-2023,CUST201,Male,Nashik,Electronics,27,Credit card,1,25,25
+202,26-03-2023,CUST202,Female,Nashik,Clothing,56,Ewallet,4,300,1200
+203,16-05-2023,CUST203,Male,Pune,Clothing,34,Ewallet,2,500,1000
+204,28-09-2023,CUST204,Male,Mumbai,Beauty,56,Ewallet,1,25,25
+205,07-11-2023,CUST205,Female,Nashik,Clothing,39,Ewallet,1,25,25
+206,05-08-2023,CUST206,Male,Pune,Clothing,43,Ewallet,1,25,25
+207,19-04-2023,CUST207,Female,Mumbai,Beauty,61,Credit card,2,25,50
+208,04-10-2023,CUST208,Female,Nashik,Electronics,42,Credit card,4,50,200
+209,20-12-2023,CUST209,Female,Pune,Footwear & Shoes,34,Ewallet,4,50,200
+210,13-04-2023,CUST210,Male,Pune,Electronics,30,Cash,4,50,200
+211,01-01-2024,CUST211,Male,Mumbai,Beauty,37,Ewallet,3,500,1500
+212,09-06-2023,CUST212,Male,Nashik,Clothing,42,Ewallet,3,500,1500
+213,24-07-2023,CUST213,Male,Nashik,Beauty,21,Cash,3,500,1500
+214,10-12-2023,CUST214,Male,Pune,Beauty,27,Cash,2,30,60
+215,29-11-2023,CUST215,Male,Mumbai,Clothing,20,Credit card,3,500,1500
+216,11-07-2023,CUST216,Male,Nashik,Electronics,58,Credit card,2,50,100
+217,13-08-2023,CUST217,Female,Pune,Electronics,62,Credit card,4,50,200
+218,22-09-2023,CUST218,Male,Mumbai,Beauty,35,Ewallet,3,30,90
+219,20-08-2023,CUST219,Female,Nashik,Electronics,64,Ewallet,3,30,90
+220,03-03-2023,CUST220,Male,Pune,Beauty,53,Ewallet,1,500,500
+221,07-05-2023,CUST221,Male,Pune,Beauty,64,Credit card,2,300,600
+222,26-04-2023,CUST222,Male,Mumbai,Clothing,39,Ewallet,4,30,120
+223,02-02-2023,CUST223,Female,Nashik,Clothing,51,Ewallet,1,25,25
+224,23-06-2023,CUST224,Female,Nashik,Clothing,64,Credit card,1,50,50
+225,11-01-2023,CUST225,Female,Pune,Beauty,25,Cash,4,25,100
+226,29-10-2023,CUST226,Female,Mumbai,Clothing,57,Credit card,1,50,50
+227,11-10-2023,CUST227,Male,Nashik,Electronics,61,Cash,2,50,100
+228,28-04-2023,CUST228,Female,Pune,Footwear & Shoes,36,Cash,2,30,60
+229,29-10-2023,CUST229,Male,Mumbai,Beauty,59,Credit card,3,30,90
+230,23-04-2023,CUST230,Male,Nashik,Beauty,58,Cash,1,25,25
+231,04-01-2023,CUST231,Female,Pune,Clothing,54,Cash,3,50,150
+232,06-02-2023,CUST232,Female,Pune,Beauty,23,Credit card,1,25,25
+233,29-12-2023,CUST233,Female,Mumbai,Beauty,43,Ewallet,2,300,600
+234,20-11-2023,CUST234,Female,Nashik,Electronics,51,Ewallet,2,25,50
+235,31-01-2023,CUST235,Female,Nashik,Electronics,62,Ewallet,2,500,1000
+236,28-04-2023,CUST236,Female,Pune,Clothing,23,Ewallet,1,25,25
+237,04-02-2023,CUST237,Female,Mumbai,Beauty,54,Ewallet,2,500,1000
+238,17-01-2023,CUST238,Female,Nashik,Beauty,50,Cash,1,500,500
+239,19-06-2023,CUST239,Male,Pune,Electronics,39,Ewallet,3,500,1500
+240,06-02-2023,CUST240,Female,Mumbai,Beauty,38,Cash,1,300,300
+241,21-09-2023,CUST241,Female,Nashik,Electronics,23,Cash,3,25,75
+242,02-05-2023,CUST242,Male,Pune,Footwear & Shoes,23,Cash,1,25,25
+243,23-05-2023,CUST243,Female,Pune,Electronics,21,Cash,3,300,900
+244,09-12-2023,CUST244,Male,Mumbai,Beauty,47,Cash,2,50,100
+245,06-09-2023,CUST245,Male,Nashik,Clothing,28,Credit card,3,30,90
+246,20-04-2023,CUST246,Female,Nashik,Electronics,47,Ewallet,2,25,50
+247,04-10-2023,CUST247,Male,Pune,Electronics,48,Credit card,2,30,60
+248,09-03-2023,CUST248,Male,Mumbai,Clothing,41,Ewallet,3,300,900
+249,20-10-2023,CUST249,Male,Nashik,Clothing,26,Cash,1,50,50
+250,23-10-2023,CUST250,Male,Pune,Electronics,20,Cash,1,50,50
+251,31-08-2023,CUST251,Female,Mumbai,Footwear & Shoes,48,Ewallet,4,50,200
+252,05-05-2023,CUST252,Male,Nashik,Electronics,57,Credit card,1,300,300
+253,31-08-2023,CUST253,Female,Pune,Clothing,54,Ewallet,4,500,2000
+254,28-07-2023,CUST254,Male,Pune,Electronics,53,Cash,1,500,500
+255,08-04-2023,CUST255,Male,Mumbai,Clothing,41,Cash,1,30,30
+256,18-02-2023,CUST256,Male,Nashik,Clothing,48,Ewallet,2,500,1000
+257,19-02-2023,CUST257,Male,Nashik,Beauty,23,Cash,4,500,2000
+258,04-12-2023,CUST258,Female,Pune,Clothing,19,Cash,1,50,50
+259,09-08-2023,CUST259,Female,Mumbai,Clothing,37,Credit card,4,50,200
+260,01-07-2023,CUST260,Male,Nashik,Beauty,45,Ewallet,2,30,60
+261,05-08-2023,CUST261,Male,Pune,Clothing,28,Ewallet,2,25,50
+262,30-07-2023,CUST262,Female,Mumbai,Beauty,21,Credit card,4,30,120
+263,28-08-2023,CUST263,Male,Nashik,Beauty,32,Cash,2,30,60
+264,28-01-2023,CUST264,Male,Kolkata,Clothing,23,Cash,3,300,900
+265,11-12-2023,CUST265,Male,Pune,Clothing,47,Ewallet,3,300,900
+266,01-12-2023,CUST266,Female,Mumbai,Electronics,55,Ewallet,2,30,60
+267,27-11-2023,CUST267,Female,Nashik,Beauty,19,Cash,3,30,90
+268,20-02-2023,CUST268,Female,Nashik,Footwear & Shoes,32,Cash,1,30,30
+269,01-02-2023,CUST269,Male,Pune,Clothing,28,Credit card,4,500,2000
+270,26-07-2023,CUST270,Male,Mumbai,Electronics,25,Cash,1,300,300
+271,23-06-2023,CUST271,Female,Nashik,Beauty,43,Ewallet,4,30,120
+272,25-02-2023,CUST272,Female,Pune,Electronics,62,Cash,2,50,100
+273,08-05-2023,CUST273,Female,Mumbai,Beauty,61,Ewallet,1,50,50
+274,09-04-2023,CUST274,Female,Nashik,Clothing,22,Credit card,2,500,1000
+275,08-04-2023,CUST275,Male,Pune,Footwear & Shoes,23,Credit card,2,500,1000
+276,02-10-2023,CUST276,Female,Pune,Beauty,43,Credit card,4,25,100
+277,18-08-2023,CUST277,Male,Mumbai,Clothing,21,Ewallet,4,25,100
+278,13-03-2023,CUST278,Female,Nashik,Clothing,36,Cash,4,25,100
+279,05-08-2023,CUST279,Male,Nashik,Clothing,37,Credit card,1,500,500
+280,04-04-2023,CUST280,Female,Pune,Clothing,50,Ewallet,3,500,1500
+281,23-05-2023,CUST281,Female,Mumbai,Beauty,37,Ewallet,4,500,2000
+282,25-08-2023,CUST282,Female,Nashik,Electronics,29,Credit card,4,50,200
+283,08-05-2023,CUST283,Female,Pune,Electronics,64,Cash,1,500,500
+284,08-02-2023,CUST284,Male,Mumbai,Clothing,18,Ewallet,4,50,200
+285,15-08-2023,CUST285,Female,Nashik,Electronics,43,Cash,1,25,25
+286,09-10-2023,CUST286,Male,Pune,Electronics,31,Credit card,2,25,50
+287,20-02-2023,CUST287,Male,Pune,Clothing,55,Cash,4,25,100
+288,26-01-2023,CUST288,Male,Mumbai,Clothing,54,Cash,4,30,120
+289,30-11-2023,CUST289,Male,Nashik,Electronics,28,Cash,2,30,60
+290,04-10-2023,CUST290,Female,Nashik,Beauty,53,Ewallet,2,300,600
+291,08-01-2023,CUST291,Male,Pune,Clothing,30,Ewallet,2,300,600
+292,17-02-2023,CUST292,Male,Mumbai,Beauty,60,Credit card,4,300,1200
+293,02-05-2023,CUST293,Male,Nashik,Electronics,20,Credit card,3,30,90
+294,27-03-2023,CUST294,Female,Pune,Clothing,50,Ewallet,3,30,90
+295,28-07-2023,CUST295,Female,Mumbai,Footwear & Shoes,23,Ewallet,3,300,900
+296,06-09-2023,CUST296,Female,Nashik,Clothing,27,Cash,4,300,1200
+297,04-09-2023,CUST297,Female,Kolkata,Electronics,22,Ewallet,2,500,1000
+298,20-04-2023,CUST298,Male,Pune,Beauty,40,Ewallet,4,300,1200
+299,25-07-2023,CUST299,Male,Mumbai,Electronics,27,Cash,2,500,1000
+300,31-01-2023,CUST300,Female,Nashik,Electronics,61,Credit card,4,50,200
+301,26-03-2023,CUST301,Male,Nashik,Clothing,19,Ewallet,4,30,120
+302,14-07-2023,CUST302,Male,Pune,Beauty,30,Ewallet,2,300,600
+303,02-01-2023,CUST303,Male,Mumbai,Electronics,57,Ewallet,3,30,90
+304,19-07-2023,CUST304,Female,Nashik,Electronics,19,Ewallet,2,30,60
+305,16-05-2023,CUST305,Female,Pune,Beauty,37,Ewallet,1,30,30
+306,21-08-2023,CUST306,Male,Mumbai,Electronics,18,Credit card,1,50,50
+307,27-05-2023,CUST307,Female,Nashik,Footwear & Shoes,54,Credit card,2,25,50
+308,05-08-2023,CUST308,Female,Pune,Beauty,26,Ewallet,4,300,1200
+309,23-12-2023,CUST309,Female,Surat,Beauty,34,Cash,1,25,25
+310,12-10-2023,CUST310,Female,Pune,Footwear & Shoes,26,Ewallet,1,25,25
+311,05-12-2023,CUST311,Female,Mumbai,Beauty,28,Ewallet,4,25,100
+312,07-09-2023,CUST312,Male,Nashik,Clothing,32,Cash,4,30,120
+313,21-03-2023,CUST313,Female,Nashik,Beauty,41,Cash,3,500,1500
+314,08-04-2023,CUST314,Male,Pune,Clothing,55,Credit card,4,30,120
+315,01-06-2023,CUST315,Male,Mumbai,Clothing,52,Credit card,2,30,60
+316,22-04-2023,CUST316,Female,Nashik,Clothing,47,Credit card,2,25,50
+317,30-01-2023,CUST317,Male,Pune,Electronics,48,Ewallet,3,30,90
+318,24-10-2023,CUST318,Male,Mumbai,Clothing,22,Ewallet,1,25,25
+319,05-10-2023,CUST319,Male,Nashik,Footwear & Shoes,61,Ewallet,1,500,500
+320,01-02-2023,CUST320,Female,Pune,Electronics,31,Credit card,4,300,1200
+321,10-06-2023,CUST321,Female,Surat,Electronics,28,Ewallet,2,25,50
+322,30-01-2023,CUST322,Male,Pune,Electronics,26,Ewallet,1,500,500
+323,26-01-2023,CUST323,Female,Mumbai,Beauty,51,Credit card,3,300,900
+324,27-10-2023,CUST324,Female,Nashik,Electronics,29,Cash,3,50,150
+325,02-09-2023,CUST325,Female,Nashik,Electronics,52,Credit card,2,25,50
+326,15-09-2023,CUST326,Female,Pune,Clothing,52,Cash,3,25,75
+327,29-09-2023,CUST327,Male,Mumbai,Electronics,18,Cash,3,50,150
+328,22-03-2023,CUST328,Male,Nashik,Beauty,57,Credit card,2,50,100
+329,30-01-2023,CUST329,Female,Pune,Electronics,39,Cash,4,25,100
+330,18-09-2023,CUST330,Female,Mumbai,Beauty,46,Cash,4,50,200
+331,11-02-2023,CUST331,Male,Nashik,Electronics,25,Credit card,3,30,90
+332,06-04-2023,CUST332,Male,Pune,Electronics,28,Ewallet,4,300,1200
+333,05-02-2023,CUST333,Female,Surat,Electronics,58,Ewallet,4,300,1200
+334,01-11-2023,CUST334,Male,Pune,Electronics,54,Ewallet,3,300,900
+335,04-02-2023,CUST335,Female,Mumbai,Beauty,31,Ewallet,4,30,120
+336,12-12-2023,CUST336,Female,Nashik,Beauty,47,Ewallet,3,50,150
+337,01-05-2023,CUST337,Male,Nashik,Clothing,52,Cash,1,500,500
+338,26-07-2023,CUST338,Male,Pune,Beauty,38,Ewallet,2,50,100
+339,03-03-2023,CUST339,Female,Mumbai,Electronics,54,Cash,2,25,50
+340,19-10-2023,CUST340,Female,Nashik,Clothing,22,Cash,4,300,1200
+341,07-05-2023,CUST341,Male,Pune,Clothing,36,Cash,4,50,200
+342,24-10-2023,CUST342,Female,Mumbai,Clothing,31,Cash,4,500,2000
+343,01-11-2023,CUST343,Male,Nashik,Electronics,43,Cash,2,25,50
+344,21-01-2023,CUST344,Female,Pune,Beauty,21,Credit card,1,30,30
+345,14-11-2023,CUST345,Male,Surat,Electronics,42,Ewallet,1,30,30
+346,11-02-2023,CUST346,Male,Pune,Clothing,62,Credit card,2,500,1000
+347,03-08-2023,CUST347,Male,Mumbai,Electronics,59,Ewallet,1,25,25
+348,03-12-2023,CUST348,Female,Nashik,Electronics,42,Cash,2,300,600
+349,26-10-2023,CUST349,Female,Nashik,Beauty,35,Cash,1,50,50
+350,17-10-2023,CUST350,Male,Pune,Beauty,57,Ewallet,3,25,75
+351,25-09-2023,CUST351,Female,Mumbai,Clothing,25,Credit card,3,30,90
+352,11-06-2023,CUST352,Male,Nashik,Electronics,56,Ewallet,2,500,1000
+353,14-05-2023,CUST353,Male,Pune,Electronics,57,Cash,1,500,500
+354,15-04-2023,CUST354,Female,Mumbai,Beauty,31,Cash,4,50,200
+355,09-12-2023,CUST355,Female,Nashik,Electronics,49,Ewallet,1,500,500
+356,10-06-2023,CUST356,Male,Pune,Electronics,55,Cash,3,500,1500
+357,03-05-2023,CUST357,Female,Surat,Electronics,50,Cash,3,25,75
+358,16-05-2023,CUST358,Female,Pune,Beauty,40,Credit card,1,300,300
+359,22-07-2023,CUST359,Male,Mumbai,Clothing,32,Ewallet,1,50,50
+360,09-03-2023,CUST360,Male,Nashik,Clothing,50,Ewallet,4,25,100
+361,10-12-2023,CUST361,Female,Nashik,Electronics,42,Credit card,4,300,1200
+362,27-11-2023,CUST362,Male,Pune,Clothing,34,Cash,1,25,25
+363,03-06-2023,CUST363,Male,Mumbai,Beauty,50,Cash,1,25,25
+364,23-08-2023,CUST364,Female,Nashik,Beauty,64,Ewallet,1,500,500
+365,11-06-2023,CUST365,Male,Pune,Furniture,19,Ewallet,1,300,300
+366,07-02-2023,CUST366,Male,Mumbai,Clothing,31,Cash,2,50,100
+367,05-01-2023,CUST367,Female,Nashik,Electronics,57,Cash,1,50,50
+368,23-08-2023,CUST368,Female,Pune,Clothing,57,Credit card,4,300,1200
+369,15-11-2023,CUST369,Male,Surat,Electronics,56,Cash,3,500,1500
+370,16-10-2023,CUST370,Male,Pune,Electronics,23,Ewallet,2,30,60
+371,21-02-2023,CUST371,Female,Mumbai,Furniture,23,Cash,1,25,25
+372,07-02-2023,CUST372,Female,Nashik,Beauty,20,Ewallet,3,500,1500
+373,03-10-2023,CUST373,Female,Nashik,Beauty,24,Credit card,2,300,600
+374,20-04-2023,CUST374,Female,Pune,Beauty,25,Credit card,3,25,75
+375,17-09-2023,CUST375,Male,Mumbai,Clothing,59,Credit card,1,50,50
+376,16-05-2023,CUST376,Female,Nashik,Beauty,32,Ewallet,1,30,30
+377,09-03-2023,CUST377,Female,Pune,Clothing,64,Cash,4,50,200
+378,28-06-2023,CUST378,Male,Mumbai,Beauty,46,Credit card,1,300,300
+379,05-02-2023,CUST379,Female,Nashik,Clothing,50,Ewallet,1,25,25
+380,06-05-2023,CUST380,Male,Pune,Furniture,47,Ewallet,2,300,600
+381,09-07-2023,CUST381,Female,Pune,Clothing,56,Credit card,4,25,100
+382,26-05-2023,CUST382,Female,Surat,Clothing,44,Cash,2,500,1000
+383,22-03-2023,CUST383,Female,Mumbai,Beauty,53,Ewallet,3,30,90
+384,13-08-2023,CUST384,Male,Nashik,Clothing,46,Cash,1,500,500
+385,06-10-2023,CUST385,Male,Nashik,Electronics,55,Credit card,3,500,1500
+386,27-12-2023,CUST386,Female,Pune,Electronics,50,Cash,2,300,600
+387,04-06-2023,CUST387,Male,Mumbai,Furniture,54,Cash,1,30,30
+388,10-11-2023,CUST388,Male,Nashik,Electronics,44,Cash,1,25,25
+389,01-12-2023,CUST389,Male,Pune,Clothing,50,Ewallet,2,25,50
+390,28-09-2023,CUST390,Male,Mumbai,Electronics,21,Ewallet,2,50,100
+391,05-01-2023,CUST391,Male,Nashik,Beauty,39,Credit card,2,25,50
+392,08-12-2023,CUST392,Male,Pune,Clothing,19,Credit card,2,300,600
+393,11-10-2023,CUST393,Female,Pune,Beauty,27,Ewallet,2,500,1000
+394,03-06-2023,CUST394,Female,Pune,Clothing,22,Ewallet,1,500,500
+395,06-12-2023,CUST395,Male,Mumbai,Electronics,27,Cash,2,500,1000
+396,23-02-2023,CUST396,Female,Nashik,Beauty,50,Ewallet,1,30,30
+397,10-03-2023,CUST397,Female,Nashik,Beauty,55,Ewallet,1,25,25
+398,16-05-2023,CUST398,Female,Pune,Furniture,30,Cash,2,300,600
+399,01-03-2023,CUST399,Female,Mumbai,Beauty,48,Credit card,2,30,60
+400,24-02-2023,CUST400,Male,Nashik,Clothing,64,Ewallet,4,50,200
+401,11-10-2023,CUST401,Female,Pune,Clothing,53,Ewallet,1,300,300
+402,21-03-2023,CUST402,Female,Mumbai,Clothing,62,Ewallet,2,300,600
+403,20-05-2023,CUST403,Male,Nashik,Clothing,41,Ewallet,2,300,600
+404,25-05-2023,CUST404,Male,Surat,Electronics,32,Ewallet,2,500,1000
+405,06-11-2023,CUST405,Female,Pune,Clothing,46,Credit card,4,300,1200
+406,18-04-2023,CUST406,Female,Pune,Beauty,25,Credit card,4,25,100
+407,25-06-2023,CUST407,Female,Mumbai,Electronics,22,Ewallet,3,300,900
+408,15-04-2023,CUST408,Female,Nashik,Beauty,46,Cash,1,500,500
+409,18-12-2023,CUST409,Female,Nashik,Electronics,64,Ewallet,3,300,900
+410,21-11-2023,CUST410,Female,Pune,Clothing,21,Ewallet,2,50,100
+411,16-05-2023,CUST411,Male,Mumbai,Furniture,29,Cash,4,50,200
+412,16-09-2023,CUST412,Female,Nashik,Electronics,62,Cash,4,500,2000
+413,08-09-2023,CUST413,Female,Pune,Beauty,19,Credit card,3,25,75
+414,09-05-2023,CUST414,Male,Mumbai,Beauty,44,Credit card,4,25,100
+415,27-01-2023,CUST415,Male,Nashik,Clothing,48,Credit card,2,30,60
+416,17-02-2023,CUST416,Male,Pune,Electronics,53,Ewallet,4,500,2000
+417,21-11-2023,CUST417,Male,Pune,Electronics,53,Ewallet,3,300,900
+418,05-08-2023,CUST418,Female,Pune,Electronics,43,Ewallet,2,500,1000
+419,22-05-2023,CUST419,Female,Mumbai,Clothing,60,Credit card,3,30,90
+420,23-01-2023,CUST420,Female,Nashik,Clothing,44,Ewallet,4,500,2000
+421,02-01-2023,CUST421,Female,Nashik,Furniture,22,Ewallet,3,500,1500
+422,20-06-2023,CUST422,Female,Pune,Clothing,37,Credit card,3,30,90
+423,08-03-2023,CUST423,Female,Mumbai,Clothing,28,Cash,1,25,25
+424,23-11-2023,CUST424,Male,Nashik,Beauty,27,Credit card,4,300,1200
+425,15-05-2023,CUST425,Female,Pune,Electronics,57,Cash,4,30,120
+426,24-03-2023,CUST426,Male,Mumbai,Electronics,55,Cash,3,50,150
+427,15-08-2023,CUST427,Male,Nashik,Furniture,23,Credit card,1,25,25
+428,10-10-2023,CUST428,Female,Pune,Electronics,25,Cash,4,50,200
+429,28-12-2023,CUST429,Male,Pune,Electronics,40,Cash,2,25,50
+430,07-08-2023,CUST430,Female,Pune,Furniture,64,Credit card,3,300,900
+431,15-10-2023,CUST431,Male,Mumbai,Electronics,43,Ewallet,4,300,1200
+432,05-01-2023,CUST432,Female,Nashik,Furniture,63,Ewallet,2,500,1000
+433,27-02-2023,CUST433,Male,Nashik,Beauty,60,Ewallet,4,50,200
+434,08-02-2023,CUST434,Female,Pune,Electronics,29,Ewallet,2,25,50
+435,20-12-2023,CUST435,Female,Mumbai,Beauty,43,Ewallet,3,300,900
+436,18-03-2023,CUST436,Female,Nashik,Clothing,30,Cash,4,30,120
+437,07-10-2023,CUST437,Female,Pune,Electronics,57,Ewallet,4,300,1200
+438,19-01-2023,CUST438,Female,Mumbai,Clothing,35,Cash,1,30,30
+439,09-07-2023,CUST439,Male,Nashik,Clothing,42,Cash,3,25,75
+440,26-10-2023,CUST440,Male,Pune,Furniture,50,Cash,2,300,600
+441,10-10-2023,CUST441,Male,Surat,Beauty,64,Cash,4,300,1200
+442,17-03-2023,CUST442,Female,Pune,Clothing,57,Cash,4,25,100
+443,09-08-2023,CUST443,Male,Mumbai,Clothing,60,Credit card,2,300,600
+444,07-03-2023,CUST444,Female,Nashik,Clothing,29,Ewallet,3,30,90
+445,22-01-2023,CUST445,Female,Nashik,Electronics,61,Credit card,1,300,300
+446,07-06-2023,CUST446,Male,Pune,Electronics,53,Ewallet,1,50,50
+447,06-07-2023,CUST447,Male,Mumbai,Beauty,21,Cash,4,500,2000
+448,21-01-2023,CUST448,Female,Nashik,Beauty,22,Cash,2,30,60
+449,03-07-2023,CUST449,Male,Pune,Electronics,54,Ewallet,4,50,200
+450,18-04-2023,CUST450,Female,Mumbai,Beauty,25,Credit card,2,25,50
+451,16-12-2023,CUST451,Female,Nashik,Electronics,59,Ewallet,1,30,30
+452,08-05-2023,CUST452,Female,Pune,Clothing,45,Cash,3,500,1500
+453,08-12-2023,CUST453,Female,Surat,Furniture,48,Cash,2,500,1000
+454,22-02-2023,CUST454,Female,Pune,Beauty,26,Ewallet,1,25,25
+455,01-07-2023,CUST455,Male,Mumbai,Electronics,46,Cash,4,25,100
+456,14-10-2023,CUST456,Male,Nashik,Electronics,31,Cash,2,30,60
+457,28-07-2023,CUST457,Female,Nashik,Beauty,57,Credit card,3,300,900
+458,14-11-2023,CUST458,Female,Pune,Electronics,58,Ewallet,4,25,100
+459,21-03-2023,CUST459,Male,Mumbai,Clothing,39,Ewallet,4,300,1200
+460,02-05-2023,CUST460,Male,Nashik,Beauty,28,Credit card,1,50,50
+461,25-03-2023,CUST461,Female,Pune,Beauty,40,Cash,2,500,1000
+462,01-04-2023,CUST462,Male,Mumbai,Electronics,18,Cash,4,300,1200
+463,31-07-2023,CUST463,Female,Nashik,Beauty,63,Ewallet,3,500,1500
+464,13-01-2023,CUST464,Male,Pune,Furniture,54,Ewallet,2,300,600
+465,02-04-2023,CUST465,Female,Pune,Electronics,38,Cash,3,50,150
+466,20-06-2023,CUST466,Male,Surat,Electronics,43,Cash,4,25,100
+467,30-07-2023,CUST467,Female,Mumbai,Electronics,63,Credit card,3,50,150
+468,09-12-2023,CUST468,Male,Nashik,Furniture,53,Cash,1,25,25
+469,08-05-2023,CUST469,Male,Nashik,Beauty,40,Ewallet,3,25,75
+470,17-05-2023,CUST470,Female,Pune,Clothing,18,Cash,2,500,1000
+471,23-03-2023,CUST471,Male,Mumbai,Clothing,57,Ewallet,3,50,150
+472,26-12-2023,CUST472,Female,Nashik,Beauty,32,Credit card,3,300,900
+473,25-02-2023,CUST473,Male,Pune,Furniture,38,Credit card,1,50,50
+474,15-07-2023,CUST474,Female,Mumbai,Clothing,64,Credit card,3,500,1500
+475,20-01-2023,CUST475,Male,Nashik,Clothing,26,Ewallet,3,25,75
+476,29-08-2023,CUST476,Female,Pune,Clothing,26,Cash,4,500,2000
+477,24-04-2023,CUST477,Male,Pune,Clothing,27,Credit card,4,30,120
+478,13-04-2023,CUST478,Female,Surat,Clothing,43,Ewallet,2,30,60
+479,24-08-2023,CUST479,Male,Mumbai,Electronics,58,Ewallet,4,300,1200
+480,29-06-2023,CUST480,Female,Nashik,Beauty,52,Credit card,4,500,2000
+481,06-06-2023,CUST481,Female,Nashik,Electronics,42,Cash,4,300,1200
+482,27-04-2023,CUST482,Female,Pune,Clothing,43,Ewallet,4,300,1200
+483,25-04-2023,CUST483,Male,Mumbai,Clothing,28,Cash,1,30,30
+484,13-01-2023,CUST484,Female,Nashik,Clothing,55,Credit card,4,300,1200
+485,04-12-2023,CUST485,Male,Pune,Electronics,19,Cash,1,30,30
+486,09-04-2023,CUST486,Female,Mumbai,Electronics,24,Cash,1,25,25
+487,24-07-2023,CUST487,Male,Nashik,Clothing,35,Cash,4,500,2000
+488,18-06-2023,CUST488,Female,Pune,Electronics,44,Ewallet,3,300,900
+489,23-05-2023,CUST489,Male,Pune,Electronics,51,Ewallet,1,30,30
+490,05-02-2023,CUST490,Male,Pune,Clothing,44,Credit card,3,50,150
+491,23-05-2023,CUST491,Female,Mumbai,Electronics,34,Credit card,3,300,900
+492,29-06-2023,CUST492,Male,Nashik,Beauty,60,Ewallet,4,25,100
+493,25-11-2023,CUST493,Male,Nashik,Beauty,61,Ewallet,2,25,50
+494,18-09-2023,CUST494,Female,Pune,Beauty,41,Cash,4,50,200
+495,24-07-2023,CUST495,Male,Mumbai,Beauty,42,Ewallet,2,30,60
+496,14-12-2023,CUST496,Male,Nashik,Clothing,24,Ewallet,2,300,600
+497,02-10-2023,CUST497,Male,Pune,Clothing,23,Cash,4,30,120
+498,19-06-2023,CUST498,Female,Mumbai,Clothing,41,Credit card,4,25,100
+499,15-01-2023,CUST499,Male,Nashik,Beauty,50,Ewallet,2,30,60
+500,01-03-2023,CUST500,Female,Pune,Beauty,46,Ewallet,4,25,100
+501,14-05-2023,CUST501,Male,Surat,Food,60,Ewallet,2,30,60
+502,02-04-2023,CUST502,Male,Pune,Electronics,39,Ewallet,3,50,150
+503,25-10-2023,CUST503,Male,Mumbai,Furniture,43,Ewallet,4,500,2000
+504,16-05-2023,CUST504,Female,Nashik,Beauty,45,Credit card,3,50,150
+505,20-01-2023,CUST505,Male,Nashik,Beauty,38,Credit card,1,50,50
+506,25-02-2023,CUST506,Male,Kolkata,Beauty,24,Ewallet,3,500,1500
+507,02-11-2023,CUST507,Female,Mumbai,Electronics,34,Cash,3,500,1500
+508,11-08-2023,CUST508,Male,Nashik,Food,37,Ewallet,2,300,600
+509,26-06-2023,CUST509,Female,Pune,Electronics,58,Ewallet,3,300,900
+510,10-06-2023,CUST510,Female,Mumbai,Beauty,37,Cash,4,50,200
+511,12-08-2023,CUST511,Male,Nashik,Beauty,39,Cash,2,50,100
+512,07-11-2023,CUST512,Female,Pune,Beauty,45,Credit card,1,25,25
+513,19-09-2023,CUST513,Male,Surat,Electronics,57,Credit card,4,25,100
+514,01-03-2023,CUST514,Female,Pune,Electronics,24,Credit card,1,300,300
+515,17-07-2023,CUST515,Female,Mumbai,Clothing,18,Ewallet,3,300,900
+516,23-10-2023,CUST516,Male,Nashik,Beauty,49,Ewallet,4,25,100
+517,08-04-2023,CUST517,Female,Nashik,Clothing,30,Ewallet,4,25,100
+518,11-05-2023,CUST518,Female,Pune,Clothing,47,Credit card,1,30,30
+519,23-01-2023,CUST519,Female,Mumbai,Electronics,40,Ewallet,4,30,120
+520,29-12-2023,CUST520,Female,Nashik,Food,36,Ewallet,4,25,100
+521,12-08-2023,CUST521,Female,Pune,Clothing,49,Credit card,4,30,120
+522,01-01-2023,CUST522,Male,Mumbai,Beauty,47,Cash,3,500,1500
+523,24-09-2023,CUST523,Female,Nashik,Electronics,46,Credit card,1,300,300
+524,03-10-2023,CUST524,Male,Pune,Beauty,62,Cash,4,300,1200
+525,18-12-2023,CUST525,Female,Surat,Beauty,46,Cash,2,25,50
+526,10-12-2023,CUST526,Male,Pune,Food,47,Credit card,2,50,100
+527,11-04-2023,CUST527,Male,Mumbai,Clothing,33,Cash,2,25,50
+528,06-07-2023,CUST528,Female,Nashik,Clothing,57,Cash,2,30,60
+529,09-08-2023,CUST529,Female,Nashik,Food,36,Credit card,3,50,150
+530,05-02-2023,CUST530,Female,Pune,Electronics,35,Ewallet,4,30,120
+531,07-12-2023,CUST531,Male,Mumbai,Electronics,18,Ewallet,1,500,500
+532,19-06-2023,CUST532,Female,Nashik,Clothing,31,Ewallet,4,30,120
+533,16-11-2023,CUST533,Male,Pune,Electronics,64,Ewallet,3,500,1500
+534,10-06-2023,CUST534,Male,Mumbai,Clothing,19,Ewallet,2,500,1000
+535,06-12-2023,CUST535,Male,Nashik,Beauty,45,Cash,3,30,90
+536,05-03-2023,CUST536,Female,Pune,Food,47,Ewallet,4,30,120
+537,03-06-2023,CUST537,Female,Surat,Beauty,55,Cash,1,500,500
+538,17-09-2023,CUST538,Male,Pune,Clothing,21,Cash,3,50,150
+539,08-06-2023,CUST539,Male,Mumbai,Beauty,18,Cash,1,500,500
+540,08-12-2023,CUST540,Female,Nashik,Electronics,25,Cash,3,300,900
+541,29-07-2023,CUST541,Male,Nashik,Food,46,Cash,1,500,500
+542,17-06-2023,CUST542,Female,Pune,Beauty,56,Credit card,1,50,50
+543,26-07-2023,CUST543,Male,Mumbai,Beauty,20,Ewallet,2,300,600
+544,23-12-2023,CUST544,Female,Nashik,Electronics,49,Credit card,1,25,25
+545,01-06-2023,CUST545,Male,Pune,Clothing,27,Ewallet,2,25,50
+546,11-10-2023,CUST546,Female,Mumbai,Electronics,27,Cash,4,50,200
+547,07-03-2023,CUST547,Male,Nashik,Clothing,36,Cash,4,500,2000
+548,09-04-2023,CUST548,Female,Pune,Clothing,63,Ewallet,2,30,60
+549,04-08-2023,CUST549,Female,Surat,Beauty,51,Credit card,2,50,100
+550,07-12-2023,CUST550,Male,Pune,Clothing,50,Ewallet,3,300,900
+551,14-07-2023,CUST551,Male,Mumbai,Food,40,Cash,3,300,900
+552,13-12-2023,CUST552,Female,Nashik,Electronics,45,Cash,3,25,75
+553,31-03-2023,CUST553,Male,Nashik,Clothing,49,Ewallet,4,300,1200
+554,12-11-2023,CUST554,Female,Pune,Beauty,24,Cash,3,50,150
+555,19-10-2023,CUST555,Male,Mumbai,Beauty,46,Cash,1,300,300
+556,04-06-2023,CUST556,Female,Nashik,Electronics,25,Credit card,1,50,50
+557,27-07-2023,CUST557,Female,Pune,Beauty,18,Ewallet,3,30,90
+558,08-10-2023,CUST558,Female,Mumbai,Clothing,20,Ewallet,1,25,25
+559,01-01-2023,CUST559,Female,Nashik,Clothing,41,Credit card,4,300,1200
+560,05-06-2023,CUST560,Female,Pune,Food,40,Cash,1,50,50
+561,27-05-2023,CUST561,Female,Surat,Clothing,25,Cash,4,500,2000
+562,18-04-2023,CUST562,Male,Pune,Electronics,64,Ewallet,2,25,50
+563,09-08-2023,CUST563,Male,Mumbai,Clothing,54,Ewallet,2,30,60
+564,24-10-2023,CUST564,Male,Nashik,Electronics,20,Cash,2,50,100
+565,07-11-2023,CUST565,Female,Nashik,Beauty,50,Cash,2,30,60
+566,02-12-2023,CUST566,Female,Pune,Clothing,45,Credit card,1,30,30
+567,14-06-2023,CUST567,Female,Mumbai,Clothing,64,Cash,3,300,900
+568,27-08-2023,CUST568,Female,Nashik,Electronics,25,Ewallet,1,300,300
+569,15-08-2023,CUST569,Male,Pune,Electronics,51,Cash,4,50,200
+570,15-08-2023,CUST570,Male,Mumbai,Clothing,52,Ewallet,1,500,500
+571,12-12-2023,CUST571,Female,Nashik,Electronics,49,Credit card,1,50,50
+572,20-04-2023,CUST572,Male,Pune,Clothing,41,Credit card,4,500,2000
+573,19-09-2023,CUST573,Male,Surat,Beauty,31,Credit card,2,30,60
+574,31-08-2023,CUST574,Female,Mumbai,Food,49,Ewallet,2,25,50
+575,28-03-2023,CUST575,Male,Nashik,Clothing,63,Cash,2,50,100
+576,04-12-2023,CUST576,Female,Pune,Beauty,60,Credit card,3,50,150
+577,13-02-2023,CUST577,Male,Pune,Beauty,33,Ewallet,4,500,2000
+578,26-05-2023,CUST578,Female,Pune,Clothing,21,Ewallet,4,30,120
+579,21-09-2023,CUST579,Female,Mumbai,Electronics,54,Credit card,1,30,30
+580,06-12-2023,CUST580,Female,Nashik,Clothing,38,Cash,3,500,1500
+581,21-11-2023,CUST581,Female,Nashik,Beauty,31,Ewallet,2,30,60
+582,14-11-2023,CUST582,Male,Pune,Clothing,48,Cash,3,300,900
+583,21-06-2023,CUST583,Female,Mumbai,Electronics,35,Credit card,4,25,100
+584,17-02-2023,CUST584,Female,Nashik,Beauty,24,Cash,4,50,200
+585,01-05-2023,CUST585,Female,Pune,Food,27,Cash,1,25,25
+586,11-12-2023,CUST586,Male,Mumbai,Electronics,24,Cash,1,50,50
+587,08-06-2023,CUST587,Female,Nashik,Beauty,50,Ewallet,4,300,1200
+588,26-04-2023,CUST588,Male,Pune,Electronics,40,Ewallet,2,30,60
+589,12-04-2023,CUST589,Female,Pune,Beauty,38,Credit card,2,500,1000
+590,17-03-2023,CUST590,Male,Mumbai,Clothing,36,Credit card,3,300,900
+591,13-01-2023,CUST591,Male,Nashik,Electronics,36,Ewallet,4,25,100
+592,24-01-2023,CUST592,Female,Pune,Beauty,53,Ewallet,4,500,2000
+593,06-05-2023,CUST593,Male,Pune,Electronics,46,Cash,2,30,60
+594,01-09-2023,CUST594,Female,Pune,Electronics,35,Ewallet,2,300,600
+595,09-11-2023,CUST595,Female,Mumbai,Clothing,19,Ewallet,4,500,2000
+596,07-02-2023,CUST596,Female,Nashik,Electronics,18,Cash,1,300,300
+597,22-08-2023,CUST597,Male,Nashik,Beauty,64,Credit card,4,300,1200
+598,01-08-2023,CUST598,Male,Pune,Beauty,22,Ewallet,4,30,120
+599,19-11-2023,CUST599,Female,Mumbai,Food,37,Ewallet,2,50,100
+600,22-10-2023,CUST600,Female,Nashik,Beauty,28,Ewallet,2,500,1000
+601,10-04-2023,CUST601,Male,Pune,Clothing,59,Ewallet,1,30,30
+602,23-12-2023,CUST602,Female,Mumbai,Electronics,19,Ewallet,1,300,300
+603,16-07-2023,CUST603,Female,Nashik,Clothing,20,Credit card,3,30,90
+604,11-09-2023,CUST604,Female,Pune,Electronics,40,Credit card,4,50,200
+605,24-07-2023,CUST605,Male,Pune,Electronics,29,Ewallet,2,500,1000
+606,05-05-2023,CUST606,Male,Mumbai,Food,37,Cash,1,50,50
+607,17-03-2023,CUST607,Male,Nashik,Clothing,22,Ewallet,3,25,75
+608,02-12-2023,CUST608,Female,Pune,Electronics,54,Ewallet,3,500,1500
+609,19-12-2023,CUST609,Female,Pune,Clothing,55,Cash,2,50,100
+610,03-01-2023,CUST610,Female,Pune,Beauty,47,Cash,2,300,600
+611,24-02-2023,CUST611,Male,Kolkata,Beauty,26,Credit card,3,500,1500
+612,06-08-2023,CUST612,Female,Nashik,Electronics,51,Credit card,1,500,500
+613,23-04-2023,CUST613,Female,Nashik,Clothing,61,Credit card,3,30,90
+614,01-04-2023,CUST614,Female,Pune,Beauty,52,Ewallet,4,300,1200
+615,23-12-2023,CUST615,Female,Mumbai,Clothing,39,Ewallet,4,25,100
+616,23-09-2023,CUST616,Male,Nashik,Clothing,61,Ewallet,2,50,100
+617,26-08-2023,CUST617,Male,Pune,Electronics,41,Credit card,1,30,30
+618,26-01-2023,CUST618,Female,Mumbai,Beauty,34,Ewallet,1,50,50
+619,13-10-2023,CUST619,Male,Nashik,Electronics,27,Ewallet,4,25,100
+620,08-05-2023,CUST620,Male,Pune,Electronics,47,Credit card,3,25,75
+621,04-03-2023,CUST621,Female,Pune,Beauty,63,Cash,2,500,1000
+622,22-08-2023,CUST622,Female,Mumbai,Beauty,40,Credit card,3,25,75
+623,10-03-2023,CUST623,Male,Nashik,Clothing,49,Cash,3,50,150
+624,26-08-2023,CUST624,Female,Pune,Beauty,34,Cash,3,300,900
+625,08-12-2023,CUST625,Male,Surat,Clothing,34,Credit card,1,300,300
+626,29-09-2023,CUST626,Female,Pune,Clothing,31,Cash,4,500,2000
+627,14-10-2023,CUST627,Male,Mumbai,Clothing,26,Cash,1,50,50
+628,01-11-2023,CUST628,Female,Kolkata,Beauty,57,Credit card,4,50,200
+629,12-06-2023,CUST629,Male,Nashik,Electronics,19,Ewallet,2,25,50
+630,15-08-2023,CUST630,Male,Pune,Food,62,Ewallet,2,50,100
+631,10-11-2023,CUST631,Male,Mumbai,Electronics,42,Ewallet,3,30,90
+632,16-09-2023,CUST632,Female,Nashik,Electronics,56,Ewallet,4,25,100
+633,07-08-2023,CUST633,Male,Pune,Beauty,26,Ewallet,4,30,120
+634,08-10-2023,CUST634,Male,Mumbai,Electronics,39,Cash,4,500,2000
+635,17-08-2023,CUST635,Female,Nashik,Electronics,60,Ewallet,3,300,900
+636,23-03-2023,CUST636,Female,Pune,Beauty,63,Cash,3,500,1500
+637,01-09-2023,CUST637,Male,Pune,Clothing,21,Cash,2,300,600
+638,19-08-2023,CUST638,Male,Mumbai,Electronics,43,Cash,1,500,500
+639,13-05-2023,CUST639,Female,Kolkata,Beauty,46,Cash,4,50,200
+640,07-05-2023,CUST640,Female,Pune,Electronics,62,Cash,4,30,120
+641,23-11-2023,CUST641,Female,Surat,Electronics,51,Credit card,1,300,300
+642,22-05-2023,CUST642,Female,Pune,Clothing,40,Ewallet,4,25,100
+643,24-09-2023,CUST643,Female,Mumbai,Electronics,54,Credit card,3,30,90
+644,06-09-2023,CUST644,Male,Nashik,Beauty,28,Ewallet,3,25,75
+645,17-11-2023,CUST645,Female,Nashik,Electronics,23,Cash,4,30,120
+646,03-05-2023,CUST646,Male,Pune,Clothing,35,Cash,3,30,90
+647,21-05-2023,CUST647,Male,Mumbai,Clothing,38,Ewallet,3,500,1500
+648,14-08-2023,CUST648,Male,Nashik,Food,59,Credit card,4,300,1200
+649,09-02-2023,CUST649,Female,Pune,Clothing,53,Ewallet,2,300,600
+650,01-01-2024,CUST650,Male,Mumbai,Electronics,58,Cash,1,30,30
+651,27-05-2023,CUST651,Male,Nashik,Food,55,Cash,3,50,150
+652,01-05-2023,CUST652,Female,Surat,Beauty,51,Ewallet,2,50,100
+653,20-05-2023,CUST653,Male,Pune,Clothing,34,Cash,3,25,75
+654,21-06-2023,CUST654,Male,Mumbai,Clothing,54,Cash,3,25,75
+655,13-06-2023,CUST655,Female,Nashik,Clothing,42,Credit card,1,500,500
+656,04-10-2023,CUST656,Male,Pune,Beauty,55,Ewallet,3,30,90
+657,11-02-2023,CUST657,Male,Pune,Clothing,29,Ewallet,1,25,25
+658,12-03-2023,CUST658,Male,Pune,Clothing,40,Credit card,1,25,25
+659,19-03-2023,CUST659,Female,Mumbai,Electronics,59,Cash,1,30,30
+660,29-04-2023,CUST660,Female,Kolkata,Beauty,39,Cash,2,500,1000
+661,16-07-2023,CUST661,Female,Nashik,Clothing,38,Ewallet,4,25,100
+662,22-12-2023,CUST662,Male,Pune,Beauty,44,Ewallet,2,500,1000
+663,20-03-2023,CUST663,Male,Mumbai,Clothing,48,Cash,4,300,1200
+664,28-12-2023,CUST664,Female,Nashik,Clothing,23,Cash,4,500,2000
+665,20-04-2023,CUST665,Male,Pune,Clothing,44,Credit card,1,50,50
+666,02-02-2023,CUST666,Male,Mumbai,Electronics,57,Cash,3,50,150
+667,01-08-2023,CUST667,Female,Nashik,Electronics,51,Ewallet,1,500,500
+668,28-07-2023,CUST668,Female,Pune,Electronics,29,Cash,3,50,150
+669,19-06-2023,CUST669,Male,Pune,Beauty,62,Ewallet,4,300,1200
+670,05-10-2023,CUST670,Male,Mumbai,Beauty,24,Credit card,1,30,30
+671,27-08-2023,CUST671,Male,Nashik,Electronics,27,Credit card,3,50,150
+672,01-08-2023,CUST672,Female,Pune,Beauty,62,Credit card,2,50,100
+673,01-02-2023,CUST673,Female,Pune,Clothing,34,Ewallet,3,500,1500
+674,16-04-2023,CUST674,Female,Pune,Food,43,Cash,1,300,300
+675,04-08-2023,CUST675,Female,Mumbai,Clothing,38,Credit card,2,30,60
+676,19-07-2023,CUST676,Male,Nashik,Electronics,45,Ewallet,3,500,1500
+677,27-10-2023,CUST677,Female,Nashik,Beauty,63,Ewallet,3,500,1500
+678,23-12-2023,CUST678,Female,Pune,Electronics,19,Credit card,3,300,900
+679,11-01-2023,CUST679,Female,Mumbai,Beauty,60,Cash,3,30,90
+680,22-10-2023,CUST680,Female,Nashik,Clothing,18,Ewallet,3,300,900
+681,14-07-2023,CUST681,Female,Pune,Food,53,Cash,2,30,60
+682,02-09-2023,CUST682,Male,Mumbai,Beauty,43,Credit card,4,300,1200
+683,04-01-2023,CUST683,Male,Nashik,Beauty,46,Cash,2,500,1000
+684,30-06-2023,CUST684,Female,Pune,Clothing,38,Cash,2,500,1000
+685,02-06-2023,CUST685,Male,Kolkata,Electronics,28,Cash,2,25,50
+686,19-07-2023,CUST686,Female,Mumbai,Electronics,57,Ewallet,4,50,200
+687,03-08-2023,CUST687,Female,Nashik,Electronics,28,Ewallet,1,300,300
+688,03-10-2023,CUST688,Male,Pune,Clothing,53,Credit card,4,25,100
+689,07-10-2023,CUST689,Male,Pune,Electronics,56,Credit card,2,50,100
+690,05-11-2023,CUST690,Female,Pune,Clothing,57,Ewallet,3,300,900
+691,23-04-2023,CUST691,Female,Mumbai,Clothing,52,Ewallet,3,30,90
+692,07-09-2023,CUST692,Female,Nashik,Clothing,51,Cash,2,50,100
+693,23-04-2023,CUST693,Male,Nashik,Beauty,64,Ewallet,3,500,1500
+694,20-05-2023,CUST694,Female,Pune,Electronics,41,Ewallet,2,25,50
+695,12-08-2023,CUST695,Female,Mumbai,Electronics,39,Cash,3,50,150
+696,06-09-2023,CUST696,Female,Nashik,Clothing,22,Credit card,4,50,200
+697,15-01-2023,CUST697,Male,Pune,Clothing,50,Ewallet,1,500,500
+698,19-07-2023,CUST698,Female,Mumbai,Electronics,53,Ewallet,1,300,300
+699,22-06-2023,CUST699,Female,Nashik,Clothing,64,Ewallet,4,30,120
+700,09-12-2023,CUST700,Male,Pune,Electronics,37,Ewallet,4,500,2000
+701,14-12-2023,CUST701,Female,Pune,Beauty,36,Ewallet,2,30,60
+702,27-07-2023,CUST702,Female,Mumbai,Clothing,52,Credit card,2,300,600
+703,26-03-2023,CUST703,Male,Nashik,Electronics,60,Credit card,2,50,100
+704,28-08-2023,CUST704,Female,Pune,Food,34,Ewallet,3,30,90
+705,07-03-2023,CUST705,Male,Pune,Electronics,62,Cash,2,25,50
+706,15-11-2023,CUST706,Male,Pune,Electronics,60,Ewallet,4,25,100
+707,01-10-2023,CUST707,Female,Mumbai,Clothing,51,Ewallet,1,500,500
+708,14-01-2023,CUST708,Female,Nashik,Beauty,26,Cash,3,300,900
+709,21-07-2023,CUST709,Female,Nashik,Electronics,43,Cash,2,500,1000
+710,31-10-2023,CUST710,Female,Pune,Electronics,19,Credit card,3,500,1500
+711,16-10-2023,CUST711,Male,Mumbai,Electronics,26,Credit card,3,500,1500
+712,06-12-2023,CUST712,Female,Nashik,Beauty,26,Credit card,2,25,50
+713,14-01-2023,CUST713,Male,Pune,Beauty,57,Ewallet,3,25,75
+714,12-02-2023,CUST714,Female,Mumbai,Clothing,34,Ewallet,1,500,500
+715,26-11-2023,CUST715,Female,Nashik,Beauty,18,Ewallet,4,25,100
+716,08-08-2023,CUST716,Female,Pune,Clothing,42,Credit card,4,300,1200
+717,11-03-2023,CUST717,Male,Pune,Clothing,60,Ewallet,1,500,500
+718,25-08-2023,CUST718,Female,Mumbai,Beauty,57,Ewallet,3,25,75
+719,04-04-2023,CUST719,Female,Nashik,Clothing,59,Credit card,2,30,60
+720,26-01-2023,CUST720,Female,Pune,Beauty,42,Cash,3,500,1500
+721,14-05-2023,CUST721,Female,Pune,Clothing,56,Credit card,1,500,500
+722,14-07-2023,CUST722,Male,Surat,Food,52,Cash,3,300,900
+723,17-06-2023,CUST723,Female,Mumbai,Beauty,20,Cash,4,50,200
+724,19-04-2023,CUST724,Male,Nashik,Clothing,54,Credit card,3,50,150
+725,21-08-2023,CUST725,Male,Nashik,Electronics,61,Cash,1,300,300
+726,17-06-2023,CUST726,Male,Pune,Clothing,61,Cash,4,300,1200
+727,22-06-2023,CUST727,Male,Mumbai,Beauty,47,Credit card,3,300,900
+728,14-07-2023,CUST728,Male,Nashik,Electronics,55,Ewallet,3,50,150
+729,23-05-2023,CUST729,Male,Pune,Clothing,51,Ewallet,4,300,1200
+730,04-08-2023,CUST730,Female,Mumbai,Clothing,29,Ewallet,2,25,50
+731,10-05-2023,CUST731,Male,Nashik,Clothing,36,Ewallet,4,500,2000
+732,11-02-2023,CUST732,Male,Pune,Electronics,54,Ewallet,2,500,1000
+733,29-08-2023,CUST733,Male,Pune,Beauty,61,Cash,1,30,30
+734,10-01-2023,CUST734,Female,Mumbai,Clothing,34,Ewallet,1,30,30
+735,04-10-2023,CUST735,Female,Nashik,Clothing,27,Cash,4,500,2000
+736,27-01-2023,CUST736,Male,Pune,Clothing,64,Cash,4,25,100
+737,29-06-2023,CUST737,Female,Surat,Clothing,29,Cash,1,50,50
+738,25-04-2023,CUST738,Male,Pune,Clothing,33,Cash,2,50,100
+739,29-11-2023,CUST739,Male,Mumbai,Beauty,41,Cash,1,25,25
+740,05-02-2023,CUST740,Female,Nashik,Beauty,36,Credit card,4,50,200
+741,30-11-2023,CUST741,Male,Nashik,Clothing,25,Ewallet,1,300,300
+742,21-01-2023,CUST742,Female,Pune,Electronics,48,Credit card,4,500,2000
+743,16-01-2023,CUST743,Female,Mumbai,Beauty,38,Ewallet,4,500,2000
+744,07-05-2023,CUST744,Male,Nashik,Electronics,34,Cash,1,25,25
+745,13-04-2023,CUST745,Male,Pune,Beauty,40,Cash,2,50,100
+746,11-01-2023,CUST746,Female,Mumbai,Clothing,54,Ewallet,3,30,90
+747,15-11-2023,CUST747,Male,Nashik,Food,33,Credit card,1,30,30
+748,20-03-2023,CUST748,Male,Pune,Clothing,23,Ewallet,3,50,150
+749,03-05-2023,CUST749,Male,Surat,Beauty,25,Cash,1,30,30
+750,06-03-2023,CUST750,Female,Mumbai,Clothing,42,Cash,3,25,75
+751,31-08-2023,CUST751,Female,Nashik,Clothing,35,Ewallet,2,25,50
+752,09-12-2023,CUST752,Male,Pune,Clothing,42,Cash,2,50,100
+753,28-02-2023,CUST753,Female,Pune,Clothing,29,Cash,1,30,30
+754,16-10-2023,CUST754,Female,Pune,Electronics,32,Credit card,4,25,100
+755,22-04-2023,CUST755,Female,Mumbai,Clothing,43,Ewallet,3,25,75
+756,27-08-2023,CUST756,Female,Nashik,Electronics,58,Ewallet,4,300,1200
+757,25-12-2023,CUST757,Female,Nashik,Electronics,62,Credit card,4,300,1200
+758,12-05-2023,CUST758,Male,Pune,Clothing,43,Cash,4,25,100
+759,08-07-2023,CUST759,Male,Mumbai,Electronics,64,Cash,2,50,100
+760,27-03-2023,CUST760,Male,Nashik,Beauty,49,Ewallet,1,500,500
+761,07-11-2023,CUST761,Female,Pune,Clothing,27,Ewallet,1,500,500
+762,07-11-2023,CUST762,Female,Mumbai,Electronics,33,Cash,2,25,50
+763,28-02-2023,CUST763,Male,Nashik,Food,24,Cash,2,25,50
+764,25-03-2023,CUST764,Female,Pune,Clothing,34,Credit card,1,25,25
+765,09-06-2023,CUST765,Male,Surat,Clothing,40,Cash,4,50,200
+766,25-02-2023,CUST766,Male,Mumbai,Electronics,43,Ewallet,3,300,900
+767,24-10-2023,CUST767,Male,Nashik,Food,38,Cash,3,25,75
+768,14-01-2023,CUST768,Female,Pune,Beauty,39,Ewallet,3,25,75
+769,09-06-2023,CUST769,Female,Surat,Electronics,24,Credit card,4,30,120
+770,22-10-2023,CUST770,Male,Pune,Clothing,31,Credit card,1,50,50
+771,13-12-2023,CUST771,Male,Mumbai,Electronics,32,Credit card,2,25,50
+772,12-07-2023,CUST772,Male,Nashik,Electronics,24,Ewallet,1,30,30
+773,23-07-2023,CUST773,Male,Nashik,Electronics,26,Cash,4,500,2000
+774,12-04-2023,CUST774,Female,Pune,Clothing,25,Credit card,2,25,50
+775,08-02-2023,CUST775,Female,Mumbai,Electronics,40,Ewallet,4,25,100
+776,31-10-2023,CUST776,Male,Nashik,Clothing,46,Ewallet,3,30,90
+777,20-12-2023,CUST777,Male,Pune,Electronics,35,Credit card,3,50,150
+778,18-11-2023,CUST778,Female,Mumbai,Beauty,48,Cash,4,25,100
+779,05-05-2023,CUST779,Female,Nashik,Electronics,47,Ewallet,2,500,1000
+780,22-02-2023,CUST780,Male,Pune,Electronics,56,Cash,2,25,50
+781,23-12-2023,CUST781,Male,Pune,Beauty,52,Credit card,1,500,500
+782,04-06-2023,CUST782,Male,Mumbai,Clothing,35,Cash,3,300,900
+783,17-12-2023,CUST783,Female,Nashik,Clothing,59,Cash,1,300,300
+784,04-11-2023,CUST784,Female,Pune,Electronics,56,Cash,1,500,500
+785,03-03-2023,CUST785,Female,Pune,Beauty,34,Ewallet,4,50,200
+786,17-10-2023,CUST786,Male,Pune,Clothing,31,Ewallet,4,25,100
+787,22-01-2023,CUST787,Male,Mumbai,Electronics,48,Credit card,1,25,25
+788,27-06-2023,CUST788,Female,Nashik,Beauty,41,Credit card,3,300,900
+789,30-09-2023,CUST789,Female,Nashik,Clothing,52,Ewallet,4,500,2000
+790,08-08-2023,CUST790,Male,Pune,Clothing,61,Ewallet,1,25,25
+791,05-12-2023,CUST791,Female,Mumbai,Beauty,62,Cash,1,25,25
+792,09-07-2023,CUST792,Female,Nashik,Beauty,51,Ewallet,1,50,50
+793,05-02-2023,CUST793,Male,Pune,Beauty,20,Ewallet,1,30,30
+794,17-09-2023,CUST794,Female,Mumbai,Beauty,54,Cash,1,300,300
+795,28-11-2023,CUST795,Male,Nashik,Food,60,Credit card,1,300,300
+796,24-06-2023,CUST796,Male,Pune,Beauty,57,Ewallet,4,30,120
+797,07-01-2023,CUST797,Male,Satara,Clothing,43,Ewallet,3,25,75
+798,04-08-2023,CUST798,Male,Mumbai,Clothing,40,Ewallet,1,50,50
+799,08-09-2023,CUST799,Male,Nashik,Electronics,61,Ewallet,2,50,100
+800,24-02-2023,CUST800,Male,Pune,Clothing,56,Ewallet,4,300,1200
+801,10-08-2023,CUST801,Male,Pune,Clothing,32,Credit card,4,50,200
+802,05-07-2023,CUST802,Female,Pune,Beauty,21,Credit card,1,30,30
+803,22-11-2023,CUST803,Male,Mumbai,Clothing,46,Ewallet,4,25,100
+804,24-08-2023,CUST804,Male,Nashik,Electronics,39,Cash,1,30,30
+805,29-12-2023,CUST805,Female,Nashik,Beauty,42,Ewallet,3,500,1500
+806,20-03-2023,CUST806,Female,Pune,Beauty,30,Ewallet,3,300,900
+807,11-08-2023,CUST807,Female,Mumbai,Electronics,35,Cash,4,50,200
+808,01-04-2023,CUST808,Male,Nashik,Beauty,50,Cash,4,500,2000
+809,25-09-2023,CUST809,Female,Pune,Beauty,33,Credit card,2,50,100
+810,30-11-2023,CUST810,Male,Mumbai,Electronics,62,Credit card,4,25,100
+811,19-05-2023,CUST811,Male,Nashik,Beauty,59,Credit card,2,25,50
+812,12-11-2023,CUST812,Male,Satara,Electronics,61,Ewallet,3,25,75
+813,03-10-2023,CUST813,Male,Pune,Electronics,19,Ewallet,3,50,150
+814,05-09-2023,CUST814,Female,Mumbai,Clothing,52,Ewallet,1,500,500
+815,27-08-2023,CUST815,Female,Nashik,Clothing,59,Credit card,3,25,75
+816,12-08-2023,CUST816,Male,Pune,Beauty,51,Ewallet,2,500,1000
+817,31-10-2023,CUST817,Male,Satara,Beauty,47,Ewallet,4,50,200
+818,18-05-2023,CUST818,Male,Pune,Food,30,Credit card,1,500,500
+819,15-06-2023,CUST819,Female,Mumbai,Beauty,30,Cash,2,50,100
+820,06-05-2023,CUST820,Male,Nashik,Electronics,35,Credit card,4,50,200
+821,14-02-2023,CUST821,Male,Nashik,Electronics,49,Cash,1,300,300
+822,23-05-2023,CUST822,Female,Pune,Beauty,49,Cash,3,50,150
+823,19-08-2023,CUST823,Female,Mumbai,Electronics,52,Credit card,2,50,100
+824,05-05-2023,CUST824,Male,Nashik,Clothing,56,Cash,4,30,120
+825,26-08-2023,CUST825,Female,Pune,Beauty,63,Cash,1,25,25
+826,19-10-2023,CUST826,Female,Mumbai,Clothing,46,Credit card,1,300,300
+827,09-11-2023,CUST827,Male,Nashik,Beauty,46,Ewallet,3,300,900
+828,09-12-2023,CUST828,Female,Pune,Electronics,61,Ewallet,4,300,1200
+829,14-07-2023,CUST829,Male,Satara,Beauty,33,Ewallet,3,30,90
+830,22-06-2023,CUST830,Female,Mumbai,Clothing,61,Ewallet,3,50,150
+831,15-01-2023,CUST831,Male,Nashik,Electronics,64,Ewallet,4,25,100
+832,11-09-2023,CUST832,Male,Pune,Beauty,27,Cash,4,500,2000
+833,16-06-2023,CUST833,Male,Pune,Beauty,47,Ewallet,4,50,200
+834,04-04-2023,CUST834,Female,Pune,Beauty,42,Cash,2,30,60
+835,07-09-2023,CUST835,Male,Mumbai,Clothing,56,Cash,4,50,200
+836,19-04-2023,CUST836,Female,Nashik,Clothing,37,Cash,1,50,50
+837,01-07-2023,CUST837,Male,Nashik,Beauty,22,Cash,3,30,90
+838,13-05-2023,CUST838,Male,Pune,Electronics,18,Cash,2,300,600
+839,24-06-2023,CUST839,Female,Mumbai,Electronics,47,Credit card,4,300,1200
+840,24-05-2023,CUST840,Male,Nashik,Clothing,20,Ewallet,2,25,50
+841,02-11-2023,CUST841,Male,Pune,Electronics,62,Credit card,4,25,100
+842,26-12-2023,CUST842,Female,Mumbai,Clothing,31,Ewallet,2,300,600
+843,22-05-2023,CUST843,Male,Nashik,Beauty,47,Cash,3,500,1500
+844,12-10-2023,CUST844,Male,Satara,Clothing,21,Cash,3,50,150
+845,06-01-2023,CUST845,Male,Pune,Clothing,35,Ewallet,1,500,500
+846,22-09-2023,CUST846,Male,Mumbai,Beauty,54,Credit card,1,50,50
+847,08-04-2023,CUST847,Female,Nashik,Electronics,42,Ewallet,4,300,1200
+848,13-02-2023,CUST848,Female,Pune,Clothing,18,Cash,3,25,75
+849,04-05-2023,CUST849,Male,Satara,Clothing,63,Cash,2,25,50
+850,28-07-2023,CUST850,Female,Pune,Beauty,32,Ewallet,2,500,1000
+851,08-09-2023,CUST851,Male,Mumbai,Electronics,26,Cash,2,25,50
+852,12-10-2023,CUST852,Female,Nashik,Clothing,32,Cash,1,300,300
+853,04-05-2023,CUST853,Male,Nashik,Beauty,41,Credit card,2,500,1000
+854,20-12-2023,CUST854,Male,Pune,Clothing,21,Ewallet,1,50,50
+855,01-09-2023,CUST855,Male,Mumbai,Beauty,29,Ewallet,1,25,25
+856,27-11-2023,CUST856,Male,Nashik,Electronics,54,Credit card,4,30,120
+857,31-12-2023,CUST857,Male,Pune,Stationery,54,Cash,2,25,50
+858,09-09-2023,CUST858,Male,Mumbai,Electronics,60,Cash,2,50,100
+859,18-08-2023,CUST859,Female,Nashik,Electronics,23,Ewallet,3,500,1500
+860,09-01-2023,CUST860,Male,Pune,Clothing,56,Ewallet,4,50,200
+861,17-02-2023,CUST861,Female,Pune,Clothing,63,Cash,3,30,90
+862,31-05-2023,CUST862,Male,Mumbai,Stationery,41,Cash,4,300,1200
+863,24-04-2023,CUST863,Female,Nashik,Electronics,28,Credit card,2,25,50
+864,27-07-2023,CUST864,Female,Pune,Electronics,30,Cash,1,500,500
+865,21-12-2023,CUST865,Female,Pune,Clothing,51,Ewallet,1,300,300
+866,05-05-2023,CUST866,Male,Satara,Electronics,42,Cash,1,50,50
+867,06-06-2023,CUST867,Male,Mumbai,Electronics,24,Ewallet,1,500,500
+868,06-12-2023,CUST868,Female,Nashik,Electronics,21,Credit card,1,300,300
+869,25-10-2023,CUST869,Male,Satara,Beauty,25,Credit card,3,500,1500
+870,08-07-2023,CUST870,Female,Pune,Electronics,37,Credit card,4,30,120
+871,31-08-2023,CUST871,Male,Mumbai,Beauty,46,Ewallet,2,30,60
+872,11-10-2023,CUST872,Female,Nashik,Beauty,62,Cash,3,25,75
+873,29-09-2023,CUST873,Female,Pune,Electronics,63,Credit card,4,25,100
+874,26-06-2023,CUST874,Male,Mumbai,Beauty,27,Ewallet,1,30,30
+875,06-08-2023,CUST875,Female,Nashik,Electronics,60,Ewallet,4,500,2000
+876,09-10-2023,CUST876,Male,Pune,Clothing,51,Credit card,4,30,120
+877,19-06-2023,CUST877,Female,Pune,Clothing,43,Cash,1,25,25
+878,30-06-2023,CUST878,Female,Mumbai,Clothing,58,Ewallet,1,30,30
+879,26-12-2023,CUST879,Male,Nashik,Clothing,20,Cash,1,30,30
+880,21-08-2023,CUST880,Male,Pune,Beauty,23,Credit card,2,500,1000
+881,19-05-2023,CUST881,Male,Pune,Electronics,22,Cash,1,300,300
+882,06-06-2023,CUST882,Female,Pune,Electronics,22,Cash,2,25,50
+883,09-05-2023,CUST883,Male,Mumbai,Electronics,64,Cash,1,500,500
+884,29-04-2023,CUST884,Female,Nashik,Clothing,40,Ewallet,2,30,60
+885,03-03-2023,CUST885,Female,Nashik,Clothing,26,Ewallet,4,30,120
+886,09-04-2023,CUST886,Male,Pune,Electronics,52,Credit card,3,300,900
+887,11-06-2023,CUST887,Male,Mumbai,Stationery,37,Credit card,4,25,100
+888,03-03-2023,CUST888,Female,Nashik,Electronics,59,Ewallet,4,25,100
+889,02-10-2023,CUST889,Female,Pune,Electronics,52,Ewallet,1,50,50
+890,20-12-2023,CUST890,Male,Mumbai,Electronics,35,Cash,2,25,50
+891,05-04-2023,CUST891,Male,Nashik,Electronics,34,Ewallet,3,300,900
+892,09-04-2023,CUST892,Male,Pune,Stationery,41,Ewallet,1,50,50
+893,21-04-2023,CUST893,Male,Pune,Electronics,20,Cash,1,50,50
+894,05-09-2023,CUST894,Male,Mumbai,Electronics,49,Credit card,1,30,30
+895,22-05-2023,CUST895,Female,Nashik,Clothing,52,Ewallet,4,30,120
+896,29-10-2023,CUST896,Female,Pune,Electronics,55,Ewallet,2,25,50
+897,26-09-2023,CUST897,Female,Satara,Electronics,30,Ewallet,2,50,100
+898,02-11-2023,CUST898,Female,Pune,Clothing,64,Ewallet,3,30,90
+899,25-05-2023,CUST899,Male,Mumbai,Clothing,42,Ewallet,2,300,600
+900,21-02-2023,CUST900,Male,Nashik,Clothing,26,Credit card,2,30,60
+901,10-04-2023,CUST901,Male,Nashik,Electronics,21,Credit card,1,30,30
+902,01-06-2023,CUST902,Female,Pune,Beauty,31,Ewallet,1,50,50
+903,27-04-2023,CUST903,Female,Mumbai,Beauty,54,Cash,4,50,200
+904,04-07-2023,CUST904,Male,Nashik,Clothing,51,Ewallet,1,500,500
+905,02-04-2023,CUST905,Male,Pune,Beauty,28,Ewallet,1,300,300
+906,04-06-2023,CUST906,Female,Mumbai,Clothing,58,Cash,1,50,50
+907,08-01-2023,CUST907,Female,Nashik,Electronics,20,Cash,1,25,25
+908,29-12-2023,CUST908,Male,Pune,Beauty,45,Credit card,4,300,1200
+909,01-10-2023,CUST909,Male,Pune,Electronics,46,Credit card,1,300,300
+910,06-03-2023,CUST910,Female,Mumbai,Beauty,26,Credit card,3,50,150
+911,21-05-2023,CUST911,Male,Nashik,Electronics,20,Ewallet,3,300,900
+912,24-01-2023,CUST912,Male,Pune,Beauty,42,Ewallet,3,50,150
+913,28-01-2023,CUST913,Male,Satara,Electronics,51,Ewallet,3,30,90
+914,11-10-2023,CUST914,Female,Pune,Electronics,29,Credit card,1,500,500
+915,30-05-2023,CUST915,Female,Mumbai,Beauty,59,Ewallet,3,30,90
+916,24-12-2023,CUST916,Female,Nashik,Electronics,26,Ewallet,1,50,50
+917,06-03-2023,CUST917,Female,Nashik,Electronics,32,Credit card,4,50,200
+918,23-11-2023,CUST918,Female,Pune,Electronics,57,Cash,3,30,90
+919,09-09-2023,CUST919,Female,Mumbai,Stationery,42,Credit card,2,25,50
+920,22-02-2023,CUST920,Female,Nashik,Beauty,22,Cash,3,25,75
+921,07-01-2023,CUST921,Male,Pune,Electronics,28,Cash,3,25,75
+922,21-10-2023,CUST922,Male,Mumbai,Electronics,51,Credit card,1,50,50
+923,26-05-2023,CUST923,Male,Nashik,Beauty,41,Cash,3,300,900
+924,29-08-2023,CUST924,Male,Pune,Beauty,32,Cash,2,50,100
+925,03-09-2023,CUST925,Male,Pune,Electronics,55,Credit card,1,300,300
+926,14-08-2023,CUST926,Male,Mumbai,Electronics,25,Ewallet,1,30,30
+927,24-06-2023,CUST927,Male,Nashik,Electronics,22,Ewallet,4,500,2000
+928,05-04-2023,CUST928,Female,Pune,Clothing,43,Ewallet,4,300,1200
+929,27-01-2023,CUST929,Female,Satara,Beauty,35,Ewallet,3,25,75
+930,10-05-2023,CUST930,Male,Pune,Clothing,23,Ewallet,4,50,200
+931,02-09-2023,CUST931,Male,Mumbai,Beauty,54,Cash,4,30,120
+932,28-02-2023,CUST932,Female,Nashik,Beauty,30,Ewallet,4,25,100
+933,03-02-2023,CUST933,Male,Nashik,Beauty,45,Cash,1,30,30
+934,25-07-2023,CUST934,Male,Pune,Beauty,22,Cash,1,500,500
+935,09-09-2023,CUST935,Female,Mumbai,Beauty,30,Cash,1,50,50
+936,07-02-2023,CUST936,Male,Nashik,Beauty,34,Cash,4,50,200
+937,23-10-2023,CUST937,Female,Pune,Beauty,57,Cash,1,500,500
+938,19-11-2023,CUST938,Male,Mumbai,Clothing,62,Credit card,4,50,200
+939,18-12-2023,CUST939,Female,Nashik,Electronics,49,Ewallet,1,300,300
+940,28-01-2023,CUST940,Female,Pune,Electronics,46,Credit card,1,30,30
+941,19-03-2023,CUST941,Female,Pune,Clothing,20,Ewallet,2,25,50
+942,18-03-2023,CUST942,Male,Mumbai,Clothing,57,Cash,3,500,1500
+943,16-10-2023,CUST943,Female,Nashik,Clothing,51,Cash,4,300,1200
+944,05-06-2023,CUST944,Male,Pune,Clothing,57,Ewallet,2,25,50
+945,13-02-2023,CUST945,Male,Pune,Beauty,44,Credit card,1,25,25
+946,08-05-2023,CUST946,Male,Pune,Electronics,30,Ewallet,4,500,2000
+947,02-03-2023,CUST947,Male,Mumbai,Beauty,62,Cash,1,300,300
+948,13-10-2023,CUST948,Female,Satara,Electronics,50,Cash,3,25,75
+949,02-08-2023,CUST949,Female,Nashik,Electronics,23,Ewallet,2,25,50
+950,07-11-2023,CUST950,Male,Pune,Clothing,41,Cash,3,300,900
+951,02-11-2023,CUST951,Male,Mumbai,Beauty,36,Cash,2,50,100
+952,13-11-2023,CUST952,Female,Nashik,Clothing,33,Credit card,1,25,25
+953,26-04-2023,CUST953,Male,Pune,Beauty,57,Ewallet,3,30,90
+954,25-09-2023,CUST954,Female,Mumbai,Electronics,45,Ewallet,3,300,900
+955,14-07-2023,CUST955,Male,Nashik,Clothing,50,Credit card,1,25,25
+956,19-08-2023,CUST956,Male,Pune,Clothing,58,Cash,3,500,1500
+957,15-08-2023,CUST957,Female,Pune,Electronics,30,Cash,4,30,120
+958,02-06-2023,CUST958,Male,Mumbai,Electronics,60,Ewallet,2,25,50
+959,29-10-2023,CUST959,Female,Nashik,Electronics,62,Ewallet,2,30,60
+960,08-08-2023,CUST960,Male,Pune,Clothing,42,Cash,2,30,60
+961,06-06-2023,CUST961,Male,Pune,Beauty,59,Cash,4,50,200
+962,19-10-2023,CUST962,Male,Pune,Clothing,53,Credit card,2,30,60
+963,14-11-2023,CUST963,Female,Mumbai,Beauty,44,Cash,1,50,50
+964,31-01-2023,CUST964,Male,Nashik,Clothing,55,Ewallet,3,300,900
+965,09-11-2023,CUST965,Male,Nashik,Clothing,24,Cash,4,50,200
+966,20-02-2023,CUST966,Male,Pune,Electronics,22,Ewallet,2,500,1000
+967,17-04-2023,CUST967,Male,Mumbai,Beauty,60,Credit card,1,25,25
+968,17-11-2023,CUST968,Female,Nashik,Clothing,62,Credit card,3,300,900
+969,19-04-2023,CUST969,Female,Pune,Clothing,48,Credit card,3,300,900
+970,16-05-2023,CUST970,Male,Mumbai,Electronics,40,Ewallet,4,500,2000
+971,05-12-2023,CUST971,Female,Satara,Electronics,59,Cash,4,50,200
+972,11-02-2023,CUST972,Male,Pune,Beauty,27,Credit card,4,25,100
+973,22-03-2023,CUST973,Male,Pune,Clothing,49,Ewallet,1,50,50
+974,03-05-2023,CUST974,Male,Mumbai,Beauty,60,Ewallet,1,30,30
+975,30-03-2023,CUST975,Female,Nashik,Clothing,47,Credit card,4,50,200
+976,10-10-2023,CUST976,Female,Pune,Beauty,56,Cash,2,300,600
+977,08-02-2023,CUST977,Female,Pune,Electronics,48,Ewallet,3,25,75
+978,22-03-2023,CUST978,Female,Pune,Clothing,35,Cash,3,50,150
+979,02-01-2023,CUST979,Female,Mumbai,Beauty,53,Credit card,1,25,25
+980,29-07-2023,CUST980,Female,Nashik,Electronics,19,Cash,3,25,75
+981,19-08-2023,CUST981,Female,Nashik,Electronics,31,Cash,2,30,60
+982,19-12-2023,CUST982,Female,Pune,Beauty,30,Cash,3,30,90
+983,01-11-2023,CUST983,Female,Mumbai,Clothing,46,Ewallet,1,300,300
+984,29-08-2023,CUST984,Male,Nashik,Clothing,29,Ewallet,1,500,500
+985,30-05-2023,CUST985,Female,Pune,Electronics,56,Credit card,2,25,50
+986,17-01-2023,CUST986,Female,Mumbai,Clothing,19,Credit card,2,500,1000
+987,29-04-2023,CUST987,Female,Nashik,Clothing,49,Ewallet,3,300,900
+988,28-05-2023,CUST988,Female,Pune,Clothing,30,Ewallet,3,25,75
+989,28-12-2023,CUST989,Female,Satara,Electronics,63,Cash,1,25,25
+990,25-05-2023,CUST990,Female,Mumbai,Beauty,44,Ewallet,2,500,1000
+991,26-12-2023,CUST991,Female,Nashik,Clothing,58,Ewallet,2,50,100
+992,21-08-2023,CUST992,Female,Pune,Electronics,34,Cash,2,30,60
+993,06-02-2023,CUST993,Female,Pune,Electronics,57,Credit card,3,50,150
+994,18-12-2023,CUST994,Female,Pune,Beauty,48,Ewallet,2,500,1000
+995,30-04-2023,CUST995,Female,Mumbai,Clothing,51,Ewallet,1,30,30
+996,16-05-2023,CUST996,Male,Nashik,Clothing,41,Ewallet,1,50,50
+997,17-11-2023,CUST997,Male,Nashik,Beauty,62,Ewallet,3,30,90
+998,29-10-2023,CUST998,Female,Pune,Beauty,52,Ewallet,4,25,100
+999,05-12-2023,CUST999,Female,Mumbai,Electronics,23,Credit card,3,50,150
+1000,12-04-2023,CUST1000,Male,Nashik,Electronics,36,Credit card,4,30,120
