@@ -4,6 +4,9 @@ The growth of supermarkets in most populated cities are increasing and market co
 Dataset:
 The dataset is public Kaggle dataset concerning super market sales data.the dataset is included as a CSV file in this repository.the dataset can be used to answer a number of usefull Questions about most profitable city, most profitable product category,etc
 
+Tools:
+Python, Power BI
+
 Laibraries used:
 1. Numpy
 2. Pandas
