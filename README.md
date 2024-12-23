@@ -1,4 +1,7 @@
 Overview:
+
+
+
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. Grocery Stores are a vital part of everyday life, providing us with the food and essentials as we need. Many people utilize grocery delivery applications to order their products, making it easy to shop from home. Each transaction made through these applications is recorded in detail, creating a valuable dataset.
 
 Dataset:
